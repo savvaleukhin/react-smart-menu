@@ -1,0 +1,16 @@
+{
+  "name": "react-smart-menu",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "savaleukhin",
+  "license": "MIT",
+  "private": false,
+  "repository": "@sleukhin/react-smart-menu",
+  "keywords": [
+    "react-smart-menu",
+    "react-menu",
+    "smart-menu",
+    "savaleukhin",
+    "sleukhin"
+  ]
+}
