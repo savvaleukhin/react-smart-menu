@@ -1,0 +1,11 @@
+# library
+node_modules/
+
+# editors
+.vscode
+
+# generated files
+dist/
+
+# logs
+yarn-error.log
